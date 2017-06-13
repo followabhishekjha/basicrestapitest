@@ -1,0 +1,1 @@
+[12-Jun-2017 18:40:05 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/myformsite/public_html/restapi/db_model.php on line 21
